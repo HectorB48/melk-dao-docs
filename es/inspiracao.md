@@ -2,7 +2,7 @@
 
 El experimento del token $MELK es una copia de $ELIOT.
 
-El [token $ELIOT](https://eliotc.substack.com/p/hello-eliot-a-community-driven-education) fue creado por [Eliot Couvat](https://www.eliotcouvat.com/8d57f85e978743f88d8c4f387fb47bd8)con el propósito de probar el modelo Earn-to-Learn en el nicho de creación de contenido.
+El [token $ELIOT](https://eliotc.substack.com/p/hello-eliot-a-community-driven-education) fue creado por [Eliot Couvat](https://www.eliotcouvat.com/8d57f85e978743f88d8c4f387fb47bd8) con el propósito de probar el modelo Earn-to-Learn en el nicho de la creación de contenido.
 
 Él trabaja para [Coinvise](https://www.coinvise.co), un sistema hecho para que los creadores de contenido creen su propio token y fomenten una comunidad.
 
